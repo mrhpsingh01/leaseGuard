@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+    <linearGradient id="baseboard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#cbd5e1"/>
+    </linearGradient>
+  </defs>
+  <!-- Wall Background -->
+  <rect width="400" height="250" fill="url(#wall)"/>
+  <!-- Baseboard -->
+  <rect y="250" width="400" height="20" fill="url(#baseboard)"/>
+  <line x1="0" y1="250" x2="400" y2="250" stroke="#94a3b8" stroke-width="1.5"/>
+  <!-- Floor -->
+  <rect y="270" width="400" height="30" fill="#e2e8f0"/>
+  
+  <!-- UGA Framed Art -->
+  <rect x="130" y="45" width="140" height="110" rx="4" fill="#0f172a" stroke="#BA0C2F" stroke-width="3"/>
+  <rect x="140" y="55" width="120" height="90" fill="#BA0C2F"/>
+  <circle cx="200" cy="100" r="30" fill="#ffffff"/>
+  <text x="200" y="106" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#BA0C2F" text-anchor="middle">UGA</text>
+
+  <!-- Move-In Baseline Stamp -->
+  <rect x="15" y="15" width="165" height="26" rx="4" fill="#059669" fill-opacity="0.9"/>
+  <text x="97" y="32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">MOVE-IN BASELINE (AUG 15)</text>
+  
+  <text x="20" y="235" font-family="Arial, sans-serif" font-size="11" fill="#475569">Status: Fresh eggshell paint, 0 nail holes, pristine condition</text>
+</svg>

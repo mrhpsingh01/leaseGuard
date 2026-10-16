@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+.next/
+apps/web/test-results/
+apps/web/playwright-report/
+.env
+.env.local
+*.sqlite3
+packages/sample-data/demand_letter_*.pdf
+AGENTS.md
+CLAUDE.MD

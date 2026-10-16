@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="wall_out" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+  </defs>
+  <!-- Wall Background -->
+  <rect width="400" height="250" fill="url(#wall_out)"/>
+  <rect y="250" width="400" height="20" fill="#f1f5f9"/>
+  <line x1="0" y1="250" x2="400" y2="250" stroke="#94a3b8" stroke-width="1.5"/>
+  <rect y="270" width="400" height="30" fill="#e2e8f0"/>
+  
+  <!-- Tiny Pinhole Picture Nail Mark -->
+  <circle cx="200" cy="95" r="2.5" fill="#334155"/>
+  <circle cx="200" cy="95" r="7" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="2,2" fill="none"/>
+  
+  <!-- Subtle furniture rub shadow near baseboard -->
+  <ellipse cx="280" cy="245" rx="35" ry="3" fill="#cbd5e1" opacity="0.6"/>
+
+  <!-- Move-Out Status Stamp -->
+  <rect x="15" y="15" width="175" height="26" rx="4" fill="#dc2626" fill-opacity="0.9"/>
+  <text x="102" y="32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">MOVE-OUT CLAIM ($400 DOCKED)</text>
+
+  <!-- Legal Callout Bubble -->
+  <rect x="25" y="165" width="350" height="65" rx="6" fill="#ffffff" stroke="#f59e0b" stroke-width="2"/>
+  <text x="35" y="185" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#d97706">STATUTORY CLASSIFICATION: ORDINARY WEAR &amp; TEAR</text>
+  <text x="35" y="202" font-family="Arial, sans-serif" font-size="10" fill="#334155">1 picture hanger pinhole &amp; minor rub mark. Under GA law,</text>
+  <text x="35" y="217" font-family="Arial, sans-serif" font-size="10" fill="#334155">landlords cannot withhold security deposits for normal tenancy wear.</text>
+</svg>

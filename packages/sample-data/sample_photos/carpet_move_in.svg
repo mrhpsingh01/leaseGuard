@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <radialGradient id="carpet_in" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fdfbf7"/>
+      <stop offset="100%" stop-color="#e8e2d5"/>
+    </radialGradient>
+  </defs>
+  <!-- Floor Background -->
+  <rect width="400" height="300" fill="url(#carpet_in)"/>
+  
+  <!-- Subtle Texture -->
+  <g opacity="0.15">
+    <circle cx="50" cy="50" r="1.5" fill="#78350f"/>
+    <circle cx="120" cy="80" r="1.5" fill="#78350f"/>
+    <circle cx="230" cy="40" r="1.5" fill="#78350f"/>
+    <circle cx="340" cy="110" r="1.5" fill="#78350f"/>
+    <circle cx="80" cy="190" r="1.5" fill="#78350f"/>
+    <circle cx="180" cy="220" r="1.5" fill="#78350f"/>
+    <circle cx="310" cy="250" r="1.5" fill="#78350f"/>
+  </g>
+
+  <!-- Move-In Baseline Stamp -->
+  <rect x="15" y="15" width="165" height="26" rx="4" fill="#059669" fill-opacity="0.9"/>
+  <text x="97" y="32" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">MOVE-IN BASELINE (AUG 15)</text>
+
+  <rect x="25" y="235" width="350" height="40" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="35" y="258" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">Condition: Standard beige student plush carpet, clean &amp; vacuumed</text>
+</svg>

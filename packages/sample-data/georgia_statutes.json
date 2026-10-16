@@ -1,0 +1,112 @@
+[
+  {
+    "rule_id": "GA-HB404-DEPOSIT-CAP",
+    "statute_title": "O.C.G.A. § 44-7-30.1 (Georgia Safe at Home Act / HB 404)",
+    "section": "44-7-30.1",
+    "category": "security_deposit",
+    "statutory_requirement": "A landlord cannot require a security deposit exceeding two months' rent.",
+    "rule_summary": "Security deposit cap: Maximum of two months' rent. Any security deposit charged in excess of two months' contract rent is unlawful and void under Georgia HB 404.",
+    "full_text": "O.C.G.A. § 44-7-30.1. (a) No landlord shall require a security deposit in an amount exceeding that of two months' rent for a residential rental agreement entered into, renewed, or modified on or after July 1, 2024. (b) Any provision in a rental agreement requiring a security deposit in excess of two months' rent shall be void and unenforceable as against public policy.",
+    "remedy": "Tenant is entitled to an immediate refund or rent credit of all amounts charged in excess of two months' rent.",
+    "standard_counter_clause": "Security Deposit: The total security deposit shall be $[MAX_DEPOSIT], which does not exceed two (2) months' rent, in strict accordance with O.C.G.A. § 44-7-30.1 (HB 404). Any excess funds previously paid shall be immediately refunded or credited toward the first month's rent.",
+    "severity": "HIGH",
+    "keywords": [
+      "security deposit",
+      "two months",
+      "deposit cap",
+      "44-7-30.1",
+      "HB 404",
+      "excessive deposit"
+    ]
+  },
+  {
+    "rule_id": "GA-HB404-HABITABILITY",
+    "statute_title": "O.C.G.A. § 44-7-13 & Georgia Safe at Home Act (HB 404)",
+    "section": "44-7-13",
+    "category": "habitability_and_repairs",
+    "statutory_requirement": "Landlords must maintain rental properties fit for human habitation and cannot shut off cooling (air conditioning) or essential utilities prior to the conclusion of eviction proceedings.",
+    "rule_summary": "Landlords are legally obligated to keep premises in a state of good repair and fit for human habitation. Clauses shifting structural or essential HVAC maintenance burdens to residential tenants or allowing landlords to shut off utilities or cooling are prohibited under Georgia law.",
+    "full_text": "O.C.G.A. § 44-7-13. The landlord must keep the premises in repair and shall be liable for all substantial improvements made by his consent. Under the Georgia Safe at Home Act (HB 404), residential rental units must be fit for human habitation, and landlords are expressly prohibited from shutting off air conditioning, heating, electric, gas, or water utilities prior to the final conclusion of judicial eviction proceedings.",
+    "remedy": "Clauses shifting repair obligations of major HVAC, plumbing, or electrical systems to the tenant are void. Landlord utility termination subjects landlord to civil liability for constructive eviction.",
+    "standard_counter_clause": "Habitability and Repairs: Landlord shall at all times maintain the leased premises, including HVAC, air conditioning, plumbing, heating, and structural elements, in good repair and fit for human habitation pursuant to O.C.G.A. § 44-7-13 and HB 404. Landlord shall not interrupt or disable utility or cooling services at any time.",
+    "severity": "HIGH",
+    "keywords": [
+      "fit for human habitation",
+      "HVAC",
+      "air conditioning",
+      "cooling waiver",
+      "utilities",
+      "shut off",
+      "repair",
+      "44-7-13",
+      "HB 404"
+    ]
+  },
+  {
+    "rule_id": "GA-HB404-CURE-PERIOD",
+    "statute_title": "Georgia Safe at Home Act (HB 404) / O.C.G.A. § 44-7-50",
+    "section": "44-7-50",
+    "category": "eviction_and_notices",
+    "statutory_requirement": "Landlords must provide tenants a mandatory 3-day written notice and grace period ('right to cure') for nonpayment of rent or fees before filing a dispossessory/eviction proceeding in court.",
+    "rule_summary": "Mandatory 3-day right to cure: Georgia Safe at Home Act (HB 404) mandates that landlords deliver at least three (3) calendar days' written notice demanding payment before filing any dispossessory action. Leases attempting to waive this notice or allow immediate court filing are unlawful.",
+    "full_text": "O.C.G.A. § 44-7-50 (as amended by HB 404). (a) In all cases where a tenant fails to pay rent when due, the landlord or landlord's agent shall provide written notice of nonpayment to the tenant stating the amount due and that the tenant has at least three (3) calendar days from delivery to pay the past due rent before any affidavit for a summons of dispossessory may be filed.",
+    "remedy": "Any dispossessory affidavit filed without proof of statutory 3-day written notice is subject to mandatory dismissal by the magistrate court.",
+    "standard_counter_clause": "Notice and Right to Cure: Prior to initiating any legal proceedings, dispossessory warrant, or eviction for nonpayment of rent or late fees, Landlord shall provide Tenant with a written notice specifying the amount due and granting a minimum of three (3) full calendar days to cure the default, in compliance with Georgia HB 404.",
+    "severity": "HIGH",
+    "keywords": [
+      "cure period",
+      "right to cure",
+      "eviction",
+      "dispossessory",
+      "3 days",
+      "notice",
+      "44-7-50",
+      "HB 404",
+      "immediate filing"
+    ]
+  },
+  {
+    "rule_id": "GA-OCGA-44-7-33-INSPECTION",
+    "statute_title": "O.C.G.A. § 44-7-33 & Georgia DCA Landlord-Tenant Handbook",
+    "section": "44-7-33",
+    "category": "move_out_inspection",
+    "statutory_requirement": "Landlords owning >10 units (or using a third-party management agent) must hold deposits in an escrow account and compile a comprehensive written move-out damage list within 3 business days of lease termination and vacancy.",
+    "rule_summary": "Move-out inspection window: Within three (3) business days after the termination of occupancy, the landlord must inspect the premises and compile a written list of any damages and estimated repair costs. Failure to compile this list within 3 business days or failure to permit tenant inspection forfeits the landlord's right to withhold any part of the security deposit.",
+    "full_text": "O.C.G.A. § 44-7-33. (b) Within three business days after the date of the termination of the occupancy, the landlord or his or her agent shall inspect the premises and compile a comprehensive list of any damage done to the premises which is the basis for any charge against the security deposit and the estimated dollar value of such damage. Tenant shall have the right to inspect the premises within five business days to verify the accuracy of the list.",
+    "remedy": "Failure by the landlord to compile and deliver the comprehensive damage list within 3 business days forfeits the landlord's legal right to retain any portion of the security deposit under O.C.G.A. § 44-7-35.",
+    "standard_counter_clause": "Move-Out Inspection: Within three (3) business days following lease termination and surrender of possession, Landlord shall conduct a move-out inspection and provide Tenant an itemized written list of damages and repair estimates pursuant to O.C.G.A. § 44-7-33. Tenant shall have the statutory right to re-inspect within five (5) business days.",
+    "severity": "HIGH",
+    "keywords": [
+      "move out inspection",
+      "3 business days",
+      "damage list",
+      "escrow",
+      "44-7-33",
+      "itemized damage",
+      "forfeiture"
+    ]
+  },
+  {
+    "rule_id": "GA-OCGA-44-7-34-RETURN",
+    "statute_title": "O.C.G.A. § 44-7-34 & § 44-7-35",
+    "section": "44-7-34",
+    "category": "deposit_refund_and_penalties",
+    "statutory_requirement": "Landlords must return the security deposit (with an itemized deduction statement) within 30 days after regaining possession; failure forfeits right to withhold and exposes bad-faith retainers to treble damages plus attorney fees.",
+    "rule_summary": "30-day deposit return deadline & treble damages: The security deposit must be returned to the tenant within 30 days of the termination of the occupancy. If the landlord withholds any portion, they must provide an itemized written statement. Under O.C.G.A. § 44-7-35, a landlord who fails to return the deposit within 30 days forfeits all right to withhold, and any intentional bad-faith retention entitles the tenant to three times the sum improperly withheld (treble damages) plus reasonable attorney's fees.",
+    "full_text": "O.C.G.A. § 44-7-34. (a) Except as provided in subsection (b) of this Code section, upon the termination of the tenancy, all funds deposited with the landlord for security shall be returned to the tenant within 30 calendar days. O.C.G.A. § 44-7-35: Any landlord who fails to return the deposit forfeits all right to retain any portion thereof. Any landlord who intentionally fails to return a security deposit in violation of this article shall be liable to the tenant in an amount equal to three times the sum improperly withheld, plus reasonable attorney's fees.",
+    "remedy": "Full forfeiture of deposit retention rights; civil award of up to 3x treble damages plus attorney's fees in Athens-Clarke County Magistrate Court.",
+    "standard_counter_clause": "Deposit Return Timeline: Landlord shall return the security deposit to Tenant, accompanied by any lawful written itemized statement of deductions, within thirty (30) calendar days after lease termination and surrender of possession in accordance with O.C.G.A. § 44-7-34 and § 44-7-35.",
+    "severity": "HIGH",
+    "keywords": [
+      "30 days",
+      "return timeline",
+      "deposit refund",
+      "treble damages",
+      "three times",
+      "attorney fees",
+      "44-7-34",
+      "44-7-35",
+      "bad faith"
+    ]
+  }
+]

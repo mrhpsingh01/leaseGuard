@@ -1,0 +1,18 @@
+# Render Blueprint: Dashboard -> New -> Blueprint -> select this repo.
+services:
+  - type: web
+    name: leaseguard-api
+    runtime: docker
+    dockerfilePath: ./apps/api/Dockerfile
+    dockerContext: .
+    plan: free
+    healthCheckPath: /api/v1/health
+    autoDeploy: true
+    envVars:
+      # Your Vercel production URL, comma-separated if several (e.g. https://leaseguard.vercel.app).
+      # https://*.vercel.app preview URLs are already allowed by default.
+      - key: ALLOWED_ORIGINS
+        sync: false
+      # Optional. Leave empty to run on the built-in SQLite + in-memory fallback.
+      - key: DATABASE_URL
+        sync: false
